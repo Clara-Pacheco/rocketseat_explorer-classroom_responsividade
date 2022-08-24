@@ -1,5 +1,4 @@
-## Projeto desenvolvido na super aula Explorer Classroom
-do programa **Explorer** da *Rocketseat* pelo professor Rodrigo Gonçalves  🚀
+## Projeto desenvolvido na super aula Explorer Classroom do programa **Explorer** da *Rocketseat* pelo professor Rodrigo Gonçalves  🚀
 
 ![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/cover.png)
 
