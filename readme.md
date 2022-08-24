@@ -1,5 +1,5 @@
-<h1>Projeto desenvolvido na super aula Explorer Classroom
-do programa **Explorer** da *Rocketseat* pelo professor Rodrigo Gonçalves  🚀</h1>
+## Projeto desenvolvido na super aula Explorer Classroom
+do programa **Explorer** da *Rocketseat* pelo professor Rodrigo Gonçalves  🚀
 
 ![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/cover.png)
 
@@ -10,9 +10,11 @@ A gente sabe que o tema é o calcanhar de Aquiles de um monte de dev sênior por
 
 ![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/preview1.png)  
 
+![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/preview3.png)
+
 ![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/preview2.png)  
 
-![](https://github.com/Clara-Pacheco/rocketseat_explorer-classroom_responsividade/blob/main/img/preview3.png)
+
 
 
 
